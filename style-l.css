@@ -78,7 +78,7 @@ body         {margin: 24px 10px;
                      padding: 10px 40px 10px 0;
                      text-decoration: none;}
 
-#headerpost   {background-color: #333333;
+#headerpost   {background-color: #006000;
                background: -webkit-gradient(linear, left top, left bottom, from(#006000), to(#888888));
                background: -webkit-linear-gradient(#006000 0%, #888888 100%);
                background: -moz-linear-gradient(#006000 0%, #888888 100%);
