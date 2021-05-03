@@ -79,12 +79,12 @@ body         {margin: 24px 10px;
                      text-decoration: none;}
 
 #headerpost   {background-color: #333333;
-               background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#888888));
-               background: -webkit-linear-gradient(#000000 0%, #888888 100%);
-               background: -moz-linear-gradient(#000000 0%, #888888 100%);
-               background: -o-linear-gradient(#000000 0%, #888888 100%);
-               background: -ms-linear-gradient(#000000 0%, #888888 100%);
-               background: linear-gradient(#000000 0%, #888888 100%);
+               background: -webkit-gradient(linear, left top, left bottom, from(#006000), to(#888888));
+               background: -webkit-linear-gradient(#006000 0%, #888888 100%);
+               background: -moz-linear-gradient(#006000 0%, #888888 100%);
+               background: -o-linear-gradient(#006000 0%, #888888 100%);
+               background: -ms-linear-gradient(#006000 0%, #888888 100%);
+               background: linear-gradient(#006000 0%, #888888 100%);
                overflow: hidden;}
                
 
