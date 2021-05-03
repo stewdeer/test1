@@ -47,7 +47,7 @@ body         {margin: 24px 10px;
            border-bottom: solid 3px transparent;
            color: #000000;}
 
-#nav li a:hover  {border-bottom-color: #ff1e97;}
+#nav li a:hover  {border-bottom-color: #63c98a;}
 
 #header   {overflow: hidden;}
 
@@ -92,7 +92,8 @@ body         {margin: 24px 10px;
 .post img {width: 216px;
            height: auto;
            vertical-align: bottom;
-           border:none;}
+           border:none;overflow: hidden;
+transform:scale(1,1);transition: all 1s ease-out;}
 
 .post h2  {font-size: 16px;
            margin: 5px 0 0;}
