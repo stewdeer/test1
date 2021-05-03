@@ -66,7 +66,7 @@ body         {margin: 24px 10px;
 #headerpost h2     {margin: 20px 0;}
 
 #headerpost .more  {font-size: 18px;
-                    font-family: 'Maven Pro', Helvetica, Arial, sans-serif;
+                    font-family: 'Maven Pro', Helvetica, Arial,'Noto Sans TC', sans-serif;
                     text-align: right;}
 
 #headerpost .more a {color: #ffffff;
