@@ -123,7 +123,7 @@ transform:scale(1,1);transition: all 1s ease-out;}
 .post a:hover {background-color: #cfffb2}
 
 /* ### FOOTER ###*/
-#footer  {background-color: #000000;
+#footer  {background-color: #a3a3a3;
          padding: 5px;}
 
 
@@ -158,7 +158,7 @@ transform:scale(1,1);transition: all 1s ease-out;}
                border-right: solid 1px #ffffff;
                text-align: center;
                text-decoration: none;
-             color: #ff1e97;
+             color: #1effd2;
              font-weight: bold;
              padding-right: 6px;
              margin-right: 3px;}
